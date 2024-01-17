@@ -29,4 +29,8 @@ for i in case:
 if S.is_empty():
     print("The input is balanced")
 
+if not S.is_empty():
+    print("The input is not balanced")
+
+
 
